@@ -1,0 +1,5 @@
+COMPILE:
+javac -cp ".;opencsv-3.6.jar" MyDatabase.java
+
+RUN:
+java -cp ".;opencsv-3.6.jar" MyDatabase
